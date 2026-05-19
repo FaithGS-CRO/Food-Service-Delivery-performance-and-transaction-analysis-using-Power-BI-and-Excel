@@ -1,6 +1,7 @@
 # SAUDI-ARABIA-FOOD-SERVICE-DELIVERY-PERFORMANCE-ANALYSIS-USING-EXCEL-AND-POWER-BI
 ## Overview
-This project is an interactive Power BI dashboard developed to analyze the food service delivery performance, total number of orders, and revenue trends. The dashboard transforms raw order details data into visual insights to support business decision-making and performance tracking.
+This practice project is an interactive Power BI dashboard developed to analyze the food service delivery performance, total number of orders, and revenue trends. The dashboard transforms raw order details data into visual insights to support business decision-making and performance tracking. 
+
 
 ---
 
